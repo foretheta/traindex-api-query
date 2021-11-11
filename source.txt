@@ -1,0 +1,33 @@
+Published before 2014-09-30
+
+ 
+
+A vehicular windshield washer fluid replenishing system for conditioning and treating water that impacts the vehicular windshield for use in a preexisting windshield washer reservoir comprising:
+
+a collection funnel for receipt of water that drains from the windshield for directional passage to an outlet;
+
+a housing coupled to said collection funnel outlet, said housing defined by a top wall, a bottom wall, a pair of side walls, an inlet end wall, an outlet end wall, an intermediate wall extending horizontally between the top and bottoms walls, and first and second passageway walls extending orthogonally from the bottom wall to the intermediate wall and from one of the sidewalls to the other sidewalls, wherein the first passageway wall is adjacent the inlet end wall and the second passageway wall is located adjacent the outlet end wall;
+
+an ion exchange resin chamber containing an ion exchange resin, wherein the ion exchange chamber is bounded by the first and second passageway walls, the intermediate wall, the bottom wall, and the pair of sidewalls;
+
+an inlet in a portion of the inlet wall adjacent the first passageway wall;
+
+a fluid conduit coupled to said inlet in said inlet end wall and to said outlet of said collection funnel for conditioning of collected water;
+
+a mixing chamber bounded by the outlet end wall, the second passageway wall, the intermediate wall, the bottom wall, and the pair of sidewalls, wherein said mixing chamber is fluidly coupled to said ion exchange chamber through said second passageway wall and adds a fluid concentrate to the conditioned water;
+
+a concentrate chamber containing said fluid concentrate, wherein the concentrate chamber is bounded by the top wall, the intermediate wall, and the inlet end wall, the outlet end wall, and the pair of sidewalls;
+
+a wick extending from the concentrate chamber to said mixing chamber for providing a capillary draw of said fluid concentrate from the concentrate chamber to said mixing chamber;
+
+an outlet in a portion of the outlet end wall adjacent the mixing chamber; and
+
+a fluid conduit coupled to said outlet in the outlet end wall, wherein said conditioned and treated water is directed to the preexisting windshield washer reservoir through said fluid conduit.
+
+ 
+
+Windshield cleaning systems are old and well known in the art. Most of them employ a reservoir containing a fluid, such as water. The water can include an additive which will prevent the water from freezing in the colder climates. This additive is commonly known as a deicer. The deicer can also remove ice that has formed on the windshield of a vehicle. Other additives to the fluid reservoir include substances which enhance the cleaning properties of the water/fluid in the reservoir, such as all season windshield cleaner, all season windshield cleaner and deicer, rain repellant with or without all season cleaner or all season windshield cleaner and deicer.
+
+ 
+
+In the winter months, when slush and other substances from the roads splash up onto the windshield of vehicles, the operator of the vehicle utilizes the windshield washer system repeatedly to clean the windshield to provide a clear view for driving. This high use of the windshield washer system can and normally does result in all of the fluid in the windshield washer reservoir being used up rapidly. If the vehicle operator is not vigilant in maintaining the washer reservoir full of fluid, the operator may be without the ability to clean the windshield when the need arises. Thus there is a need to provide a system and method of readily replenishing the fluid in a windshield washer reservoir without the vehicle operator constantly monitoring the fluid in the windshield washer reservoir.
