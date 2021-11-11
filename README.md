@@ -6,7 +6,7 @@ Please make sure to provide your Traindex API key to the line 8 in the script fi
 There are two ways to make the query to Traindex API.
 
 1. Use traindex_query.py if you want to input the string query inside the script file.
-2. Use traindex_query.py if the string query is stored in a text file named `source.txt`
+2. Use traindex_query_with_file.py if the string query is stored in a text file named `source.txt`
 
 There are two methods to make the API call in each file.
 - `get_full_output` method will save all the items in the API output to csv file.
